@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nadia-data
 - 👀 I’m interested in Machine Learning and data science.
 - 🌱 I’m currently Pluridisciplinary engineering student at Ecole Centrale Casablanca, doing an academic exchange at Centrale Lyon. 
-contacts:
+contact:
 nadia.elhanine@centrale-casablanca.ma 
 
 <!---
